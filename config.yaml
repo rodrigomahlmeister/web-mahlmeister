@@ -1,0 +1,43 @@
+title: Eddie Webb
+baseURL: https://example.com/
+theme: hugo-resume
+languageCode: en-us
+PygmentsCodeFences: yes
+PygmentsCodeFencesGuessSyntax: yes
+PygmentsStyle: monokai
+enableGitInfo: no
+params:
+  address: Rollinsford, NH
+  email: email@domain.com
+  favicon: /favicon.ico
+  firstName: Eddie
+  google:
+    analytics:
+      trackerID: XX-123446-01
+  handles:
+    - link: https://www.linkedin.com/in/edwardwebb/
+      name: LinkedIn
+    - link: https://github.com/eddiewebb/
+      name: GitHub
+    - link: https://bitbucket.org/eddiewebb/
+      name: Bitbucket
+    - link: https://stackoverflow.com/users/story/82880
+      name: Stack Overflow
+    - link: https://keybase.io/edwardawebb
+      name: Keybase
+  lastName: Webb
+  phone: 1-555-555-1234
+  profileImage: img/TechChat.png
+  showEducation: yes
+  showExperience: yes
+  showOpenSource: yes
+  showProjects: yes
+  showPublications: yes
+  showQr: yes
+  showSkills: yes
+outputs:
+  home:
+    - HTML
+    - JSON
+taxonomies:
+  tag: tags
