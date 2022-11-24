@@ -8,4 +8,14 @@ sitemap:
   priority: 1
 title: Home
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+
+Welcome! I have a Bachelor's degree in Economics and a Master's degree in Political Science from the [University of Sao Paulo](https://www5.usp.br/), in Brazil.
+
+I work as Research Assistant for Natalia Bueno ([Emory University](http://polisci.emory.edu/home/)) and as researcher at the [Center for Metropolitan Studies](https://centrodametropole.fflch.usp.br/en) (CEM/Cebrap).
+
+My interest lies at the intersection between comparative politics and the political economy of development, with a focus on Latin America.
+
+My [Master's thesis](https://t.co/8K15s8QISA) on preferences for redistribution was recently awarded the national prize for the best dissertation in all social sciences by the National Graduate Studies Association in Social Sciences ([ANPOCS](https://www.anpocs.com/)).
+
+Download my [CV](CV_RodrigoMahlmeister.pdf).
+

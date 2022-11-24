@@ -1,20 +1,32 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.\n- list\n- of\n- things",
-        "range":"February 2016 - Present"
+        "role":"Reseach Assistant",
+        "company":"Emory University",
+        "summary":"R.A. for Natalia Bueno.",
+        "range":"2022 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Political Data Analyst",
+        "company":"Concordia Public Affairs Strategies",
+        "summary":"Political consultancy.",
+        "range":"2021 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Researcher",
+        "company":"Center for Metropolitan Studies",
+        "summary":"One of the most important centers for studying urban and public policies in Latin America.",
+        "range":"2019 - Present"
+    },
+    {
+        "role":"Data Analyst",
+        "company":"NGO 'All for Education'",
+        "summary":"Professional internship.",
+        "range":"2018 - 2018"
+    },
+        {
+        "role":"Public Policy Researcher",
+        "company":"Center for Public Policies - Insper",
+        "summary":"Professional internship.",
+        "range":"2016 - 2017"
     }
 ]

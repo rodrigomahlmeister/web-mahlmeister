@@ -1,15 +1,14 @@
 [
     {
-        "school":"[Rochester Institute of Technology](https://rit.edu)",
+        "school":"[University of Sao Paulo](https://www.fea.usp.br/)",
         "degree":"Bachelor of Science",
-        "major":"Management Information Systems",
-        "notes":"Beta Gamma Signma, High Honors",
-        "range":"2006 - 2008"
+        "major":"Economics",
+        "range":"2014 - 2018"
     },
     {
-        "school":"Clinton Community College",
-        "degree":"Associate of Applied Science",
-        "major":"Computer Information Systems",
-        "range":"2004 - 2006"
+        "school":"[University of Sao Paulo](https://dcp.fflch.usp.br/)",
+        "degree":"Master of Science",
+        "major":"Political Science",
+        "range":"2019 - 2021"
     }
 ]
