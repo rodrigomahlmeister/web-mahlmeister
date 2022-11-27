@@ -1,4 +1,4 @@
-title: R. Mahlmeister | Academic
+title: R. Mahlmeister
 baseURL: https://rodrigomahlmeister.com
 theme: hugo-resume
 languageCode: en-us
@@ -9,7 +9,7 @@ enableGitInfo: no
 params:
   address: SP / Brazil
   email: rodrigosmahlmeister@gmail.com
-  favicon: /favicon.ico
+  favicon: /student.png
   firstName: Rodrigo
   google:
     analytics:

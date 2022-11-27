@@ -9,7 +9,7 @@ sitemap:
 title: Home
 ---
 
-Welcome! I have a Bachelor's degree in Economics and a Master's degree in Political Science from the [University of Sao Paulo](https://www5.usp.br/), in Brazil.
+Welcome! I hold a Bachelor's degree in Economics and a Master's degree in Political Science from the [University of Sao Paulo](https://www5.usp.br/), in Brazil.
 
 I work as Research Assistant for Natalia Bueno ([Emory University](http://polisci.emory.edu/home/)) and as researcher at the [Center for Metropolitan Studies](https://centrodametropole.fflch.usp.br/en) (CEM/Cebrap).
 
