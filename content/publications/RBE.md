@@ -15,7 +15,7 @@ tags:
 - Education
 
 title: 'Revisiting the Intergenerational Mobility of Education in Brazil'
-weight: 500
+weight: 600
 ---
 
 Authors: Rodrigo Mahlmeister, Sergio Ferreira, Fernando Veloso, Naercio Menezes-Filho, and Bruno Kawaoka Komatsu.

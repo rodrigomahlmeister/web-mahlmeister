@@ -14,7 +14,7 @@ tags:
 - Real State Tax
 
 title: 'Testing Rent-Seeking in Brazil: Inequalities and Property Tax Collection in Brazilian Municipalities'
-weight: 600
+weight: 700
 ---
 
 This article examines the relationship between income inequality and IPTU revenues
